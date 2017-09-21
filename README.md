@@ -97,7 +97,7 @@ AG-Admin是国内首个基于`Spring Cloud`微`服务`化`开发平台`，具有
 ---------
 ### 2017年7月29日 Config-Server引入
 ![img](http://ofsc32t59.bkt.clouddn.com/17-07-29/1501301221475.jpg)
-- 增加`Spring cloud config`，默认配置地址：http://git.oschina.net/geek_qi/AG-Config
+- 增加`Spring cloud config`，默认配置地址：https://github.com/deyuanchen/ace-security/tree/master/ace-config
 - ace-gate中关于网关配置抽离至config git服务器
 - 修改spring cloud config 服务地址：ace-config/src/main/resources/application.yml中git地址
 - 相对于携程的apollo的配置中心，spring cloud config不是很好用
